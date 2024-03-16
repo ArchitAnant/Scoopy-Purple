@@ -1,0 +1,22 @@
+{
+  "name": "scoopy",
+  "displayName": "Scoopy - Purple",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "icon": "asset/icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Scoopy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Scoopy-color-theme.json"
+      }
+    ]
+  }
+}
