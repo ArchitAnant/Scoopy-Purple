@@ -9,4 +9,4 @@ For the coders who like Purple: _Its Just Purple!_
 <!-- Show a picture -->
 ![Img1](https://ik.imagekit.io/unxnha0nz/ss1.png)
 
-![Img2](https://ik.imagekit.io/unxnha0nz/ss1.png)
+![Img2](https://ik.imagekit.io/unxnha0nz/ss2.png)
